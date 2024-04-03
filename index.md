@@ -6,9 +6,9 @@ I'm **Manu**, a second year at UCSD.
 
 ## Table of Contents
 <!-- Section Links and Ordered List -->
-1. [Favorites]()
-2. [Bucket List]()
-3. [Bibliography]()
+1. [Favorites](https://github.com/enigmurl-ucsd/cse110-lab1/blob/main/index.md#favorites)
+2. [Bucket List](https://github.com/enigmurl-ucsd/cse110-lab1/blob/main/index.md#my-bucket-list)
+3. [Bibliography](https://github.com/enigmurl-ucsd/cse110-lab1/blob/main/index.md#bibliography)
 
 <!-- Unordered List -->
 ## Favorites
