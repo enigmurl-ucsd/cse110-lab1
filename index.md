@@ -1,7 +1,7 @@
 <!-- Heading -->
 # Manu's User Page
 
-<!-- Styled Test -->
+<!-- Styled Text -->
 I'm **Manu**, a second year at UCSD.
 
 ## Table of Contents
