@@ -1,8 +1,10 @@
 <!-- Heading -->
 # Manu's User Page
 
-<!-- Styled Text -->
-I'm **Manu**, a second year at UCSD.
+<!-- Styled Text bold + superscript -->
+I'm **Manu**, a second year at UCSD <sup> 1 </sup>.
+
+<sub> 1* University of California San Diego </sub>
 
 ## Table of Contents
 <!-- Section Links and Ordered List -->
@@ -12,7 +14,7 @@ I'm **Manu**, a second year at UCSD.
 
 <!-- Unordered List -->
 ## Favorites
-<!-- Relative Link -->
+<!-- Relative Link + Styled Text italics -->
 - As a hobby, I enjoy *mathematical animations*. I provided a separate page [here](animation.md) with a few examples.
 
 -  My favorite programming language is Rust due to its type system. I particularly like method chaining. Here's a snippet where I try to decompose a string that looks like `[key: value]`
